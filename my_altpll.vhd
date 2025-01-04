@@ -1,4 +1,4 @@
--- megafunction wizard: %Altera PLL v16.1%
+-- megafunction wizard: %Altera PLL v16.2%
 -- GENERATION: XML
 -- my_altpll.vhd
 
